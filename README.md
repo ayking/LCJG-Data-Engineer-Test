@@ -7,4 +7,4 @@ Data engineer interview test for LCJG
   - Use networok request
   - Store in sqlite by using with the database designed in Question 1
 
-## After you finsih the test please zip them all to a single file and email to alanyu@lcjgroup.com
+After you finsih the test please zip them all to a single file and email to alanyu@lcjgroup.com
