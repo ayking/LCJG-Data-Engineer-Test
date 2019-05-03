@@ -5,6 +5,6 @@ Data engineer interview test for LCJG and you need to finish it within 12 hours.
 
 **Question 2 : Write a program by using python to get the data from data.json**
   - Use networok request
-  - Store in sqlite by using with the database designed in Question 1
+  - Store data in sqlite by using the database designed in Question 1
 
 After you finsih the test please zip them all to a single file and email to alanyu@lcjgroup.com
