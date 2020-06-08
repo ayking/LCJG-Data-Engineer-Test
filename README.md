@@ -12,7 +12,7 @@ Data engineer interview test for LCJG and you need to finish it within 12 hours.
   - Store data in sqlite3 by using the database designed in Question 1
 
 
-**Question 4: Using the following data set(+) to complete the following question.**
+**Question 4: Using this [data set](https://raw.githubusercontent.com/ayking/LCJG-Data-Engineer-Test/master/SampleDataSet.zip)(+) to complete the following question.**
 
 
 - How you work with the data set?
