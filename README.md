@@ -1,5 +1,5 @@
 # LCJG-Data-Engineer-Test
-Data engineer interview test for LCJG and you need to finish it within 12 hours.
+Data engineer interview test for LCJG and you need to finish it within 24 hours.
 
 **Question 1 : Design database schema for the [data.json](https://raw.githubusercontent.com/ayking/LCJG-Data-Engineer-Test/master/data.json)**
 
