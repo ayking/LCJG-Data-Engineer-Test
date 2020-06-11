@@ -20,16 +20,7 @@ Data engineer interview test for LCJG and you need to finish it within 24 hours.
   - You can read the csv data directly
  
 
-- Create analysis table for order detail with customer and product information.
-
-  - orderDate 
-  - productCode 
-  - quantifyQordered 
-  - priceEach
-  - orderineNumber 
-  - productName 
-  - productDescription 
-  - productScale 
+- Create analysis table for customer
   - customerNumber 
   - customerName 
   - phone 
@@ -37,7 +28,15 @@ Data engineer interview test for LCJG and you need to finish it within 24 hours.
   - addressLine2 
   - city 
   - country
-
+  - first purchase date  
+  - total amount of spend
+  - total qty of all purchases
+  - last purchase product line
+  - first purchase sales person id
+  - first purchase sales person office code
+  - first purchase sales person name
+  - avg order value
+  
 
 After you finsih the test please zip them all to a single file and email to alanyu@lcjgroup.com
 
