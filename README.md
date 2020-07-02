@@ -7,12 +7,7 @@ Data engineer interview test for LCJG and you need to finish it within 24 hours.
   - Use networok request
   - Store data in sqlite3 by using the database designed in Question 1
 
-**Question 3 : Write a program by using python to get the data from [data.json](https://raw.githubusercontent.com/ayking/LCJG-Data-Engineer-Test/master/data.json)**
-  - Use networok request
-  - Store data in sqlite3 by using the database designed in Question 1
-
-
-**Question 4: Using this [data set](https://raw.githubusercontent.com/ayking/LCJG-Data-Engineer-Test/master/SampleDataSet.zip)(+) to complete the following question.**
+**Question 3: Using this [data set](https://raw.githubusercontent.com/ayking/LCJG-Data-Engineer-Test/master/SampleDataSet.zip)(+) to complete the following question.**
 
 
 - How you work with the data set?
