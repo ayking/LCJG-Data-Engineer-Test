@@ -28,10 +28,8 @@ Data engineer interview test for LCJG and you need to finish it within 24 hours.
   - first purchase date  
   - total amount of spend
   - total qty of all purchases
-  - last purchase product line
-  - first purchase sales person id
-  - first purchase sales person office code
-  - first purchase sales person name
+  - sales person id
+  - sales person office code
   - avg order value
 
 - Submit the SQL and the result data in csv format
